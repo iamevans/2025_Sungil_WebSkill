@@ -4,7 +4,7 @@
 ## 21117 이서영
 > github https://github.com/dtd08/WebDesign25
 
-## 21120 정신서
+## 21120 정인서
 > github https://github.com/GEUMAIN/webDesign
 
 ## 21207 김민성
